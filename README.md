@@ -1,7 +1,7 @@
 # String Project
 in this project i imblemint some string methods 
 
-#1.CountWords
+1.CountWords
 2.trem
 3.join string
 4.split string
