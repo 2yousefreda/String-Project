@@ -5,7 +5,7 @@ in this project i imblemint some string methods
 2.trem
 3.join string
 4.split string
-5.reverse
+5.reverse 
 6.reblace
 7.remove punctuation
 8.Char Counter
