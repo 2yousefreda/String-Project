@@ -1,5 +1,5 @@
 # String Project
-</b>in this project i imblemint some string methods <b/><br/>
+<b/>in this project i imblemint some string methods <b/><br/>
 <b/>
 1. CountWords<br/>
 2. trem<br/>
