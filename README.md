@@ -37,7 +37,7 @@ The **ClsString** library is a C++ class that provides a variety of functions fo
 #include "ClsString.h"
 
 int main() {
-    ClsString str("Hello OpenAI!");
+    ClsString str("Hello Yousef!");
     std::cout << "Original: " << str.GetValue() << std::endl;
     std::cout << "Word Count: " << str.CountWords() << std::endl;
     std::cout << "Reversed: " << str.reverse() << std::endl;
