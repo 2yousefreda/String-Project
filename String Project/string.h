@@ -288,7 +288,7 @@ public:
 	string capitalfirstL() {
 		return capitalfirstL(_Value);
 	}
-	//end Ca F L
+	//end Cabetal First Letter
 
 	//start vowel
 	static int vowelcounter(string words) {

@@ -31,7 +31,7 @@ int main()
     cout << s1.trimreigt()<<endl;
     cout << s1.vowelcounter()<<endl;
     cout << s1.Length() << endl;
-    
-    
+ 
+  
     system("pause>0");
 }
